@@ -33,6 +33,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
+---
 
 - Bourse Excellence scholarship  receipent (2021), IP Paris
 - Campus France Ghana scholarship receipent (2021)
