@@ -8,7 +8,7 @@ date: "2020-06-27T00:00:00Z"
 external_link:  https://play.google.com/store/apps/details?id=com.homedoc
 
 image:
-  caption:HomDoc,telehealth application
+  caption: HomDoc,telehealth application
   focal_point: Smart
 
 links:
