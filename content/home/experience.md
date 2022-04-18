@@ -57,7 +57,10 @@ experience:
     location: Kumasi,Ghana
     date_start: '2020-09-01'
     date_end: '2021-08-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description:  |2-
+      Responsibilities include:
+        
+        * Taught electronic engineering and researched semiconductor physics.
   
    - title: Software Engineer
     company: FillyCoder
