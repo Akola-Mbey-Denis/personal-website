@@ -12,9 +12,9 @@ image:
   focal_point: Smart
 
 links:
-- icon:  mobile
+- icon:  file-pdf
   icon_pack: fas
-  name: Mobile App
+  name: Report
   url: https://drive.google.com/file/d/1zVxKOkji025ozStf8eOtMzTijNS6ijSZ/view?usp=sharing
 url_code: https://github.com/Akola-Mbey-Denis/DetTracktor
 url_pdf: ""
