@@ -62,7 +62,7 @@ experience:
         
         * Taught electronic engineering and researched semiconductor physics.
   
-   - title: Software Engineer
+  - title: Software Engineer
     company: FillyCoder
     company_url: 'https://fillycoder.com/'
     company_logo: fillycoder
