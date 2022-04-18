@@ -29,12 +29,6 @@ experience:
     location: Palaiseau,France
     date_start: '2021-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
 
   - title: Software Engineer
     company: Bewsys
@@ -43,12 +37,6 @@ experience:
     location: Accra,Ghana
     date_start: '2021-09-01'
     date_end: '2022-04-29'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
         
   - title: Research and Teaching Assistant
     company: Department of Computer Engineering,Kwame Nkrumah University of Science and Technology
@@ -57,11 +45,7 @@ experience:
     location: Kumasi,Ghana
     date_start: '2020-09-01'
     date_end: '2021-08-31'
-    description:  |2-
-      Responsibilities include:
-        
-        * Taught electronic engineering and researched semiconductor physics.
-  
+   
   - title: Software Engineer
     company: FillyCoder
     company_url: 'https://fillycoder.com/'
@@ -69,12 +53,6 @@ experience:
     location: Accra,Ghana
     date_start: '2020-07-01'
     date_end: '2021-07-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
 
 design:
   columns: '2'
