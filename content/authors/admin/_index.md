@@ -64,9 +64,11 @@ email: "akoladenis97@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Denis Mbey Akola is currently a Msc Student in Computer Science at the Institut Polytechnique de Paris. His research interest is in computer vision,robotics,autonomous vehicles perception and software engineering.
+Currently,I am a research assistant at the UI2S research laboratory at ENSTA PARIS where I am carrying out interdisciplinary research in computer vision,and robotics.
+He also holds a bachelor of science degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology.
 
-Denis Mbey Akola  is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prior to his enrollment at IP Paris,Denis was a Software Engineer at Bewsys and FillyCoder where he used his software development skills to build bespoke software systems to solve problems in various domains (education,agriculture,and health).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+He is currently working on a agritech start-up to leverage computer vision to timely diagnose plant leaf diseases.
+He is involved in a number of community engagement projects; notably the TechOne Foundation which he founded in 2017 in Zebilla to provide basic computer skills to students in his community.
