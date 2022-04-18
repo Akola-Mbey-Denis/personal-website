@@ -12,7 +12,7 @@ image:
   focal_point: Smart
 
 links:
-- icon:  file-pdf
+- icon:  mobile
   icon_pack: fas
   name: Report
   url: https://play.google.com/store/apps/details?id=com.homedoc
