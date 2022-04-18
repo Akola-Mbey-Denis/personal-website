@@ -1,6 +1,6 @@
 ---
 title: Image Filtering
-summary: This project exploits parallelism in a sequential image filtering program. The goal was to parallelise this program using parallel programming tools (Open MP,MPI and CUDA). This program reduced the computation time of applying sobel and blur filters on gif images by 20.
+summary: This project exploits parallelism in a sequential image filtering program. The goal was to parallelise this program using parallel programming tools (Open MP,MPI and CUDA). This program reduced the computation time of applying sobel and blur filters on gif images by 20%.
 
 date: "2022-03-27T00:00:00Z"
 
