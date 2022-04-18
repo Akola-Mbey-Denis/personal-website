@@ -14,7 +14,7 @@ image:
 links:
 - icon:  mobile
   icon_pack: fas
-  name: Report
+  name: Mobile App
   url: https://play.google.com/store/apps/details?id=com.homedoc
 url_code: ""
 url_pdf: ""
