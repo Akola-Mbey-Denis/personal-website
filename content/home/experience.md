@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Assistant
+    company: ENSTA PARIS,UI2S Research Laboratory
+    company_url: 'http://u2is.ensta-paris.fr/'
+    company_logo: ENSTA
+    location: Palaiseau,France
+    date_start: '2021-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -35,15 +35,43 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+
+  - title: Software Engineer
+    company: Bewsys
+    company_url: 'https://www.bewsys.com/'
+    company_logo: bewsys
+    location: Accra,Ghana
+    date_start: '2021-09-01'
+    date_end: '2022-04-29'
+    description: |2-
+        Responsibilities include:
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Research and Teaching Assistant
+    company: Department of Computer Engineering,Kwame Nkrumah University of Science and Technology
+    company_url: 'https://compeng.knust.edu.gh/'
+    company_logo: knust
+    location: Kumasi,Ghana
+    date_start: '2020-09-01'
+    date_end: '2021-08-31'
     description: Taught electronic engineering and researched semiconductor physics.
+  
+   - title: Software Engineer
+    company: FillyCoder
+    company_url: 'https://fillycoder.com/'
+    company_logo: fillycoder
+    location: Accra,Ghana
+    date_start: '2020-07-01'
+    date_end: '2021-07-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
 design:
   columns: '2'
