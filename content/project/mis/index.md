@@ -1,8 +1,6 @@
 ---
 title: Management Information  System - Mobile Application  for Democratic Republic of Congo
-summary: As a Software Engineer at Bewsys,I built a mobile application to help enumerators in the Democratic Republic of Congo
-to collect data from their citizens to help provide a central management database system for the country. This would be useful
-for developmental policy formulation in Congo.
+summary: As a Software Engineer at Bewsys,I built a mobile application to help enumerators in the Democratic Republic of Congo to collect data from their citizens to help provide a central management database system for the country. This would be useful for  developmental policy formulation in Congo.
 
 date: "2021-09-27T00:00:00Z"
 
