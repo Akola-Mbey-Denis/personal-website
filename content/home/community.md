@@ -42,7 +42,7 @@ design:
 **Tutoring:** I also spent sometime to tutor students in my community.  During my time as a teaching assitant at the Department of Computer Engineering, I lead tutorial lessons in Computer Vision,and Computer Graphics. In these sessions,I helped the students to have a better grasp of core course concepts that were taught by my proffessors.  
 
 
-**Volunteering:** I took part in a number of community give back iniatives during my time as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/). From teaching highschool students to blood donation campaigns. I cherish every opportunity I have to give back to my community and I am looking forward to doing more. A
+**Volunteering:** I took part in a number of community give back iniatives during my time as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/). From teaching high school students to blood donation campaigns. I cherish every opportunity I have to give back to my community and I am looking forward to doing more. 
 
 
 Please feel free to reach out if you want to colloborate on something, I am always open to learning from other people's ideas.  
