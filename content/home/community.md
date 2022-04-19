@@ -35,16 +35,14 @@ design:
   view: 2
 ---
 
-**Mentorship:** I am very passionate about mentoring and supporting others to realize their true potential. I co-founded [Anansi Mentorship](), with [@Twum-Ampofo](https://www.linkedin.com/in/kofiapeakorang/) and [@Ermyntrude](https://mcfscholars.asu.edu/scholars/phase-ii-scholars/ermyntrude-adjei), together we are helping bridge the gap between students from Universities in Africa and opportunities around the globe. I am also a member of the [Elevate Mentorship program](https://sites.google.com/miafrik.org/elevate/about-us/our-mentors) where I help mentor university students back in Cameroon. At [Open Dreams](https://www.open-dreams.org/), I help high-achieving, low-income high school students from Cameroon in their quest for securing scholarships to pursue a university education.
-}
+**Mentorship:** I am always excited to mentor and support others to realize their potential. I have mentored a couple of students in my community. I have being involved in mentoring students brilliant, but needy students and also guiding them to apply for scholarships to pursue university education.
 
-**Tutoring:** When I am not leading mentorship initiatives, I am busy taking part in [initiatives](https://www.linkedin.com/feed/update/urn:li:activity:6607347347779387392/) that build other people's technical skills. I was the lead for Artificial Intelligence at the [KNUST Innovation Centre]() where I led several training initiatives. At Goldman Sachs, I am part of the Career Development Pillar of the Black Engineer's Network, where I help run initiatives to promote black excellence. 
+**Leadership:** I founded a non-governmental organisation called TechOne Foundation in Zebilla,my hometown in the Upper East Region of Ghana. Through this intiative,I team up with my friends in the community to provide ICT lessons to students in the community. We have plans to extend of scope of influence to provide training programs in data science and software engineering to help the youth and school dropouts in Zebilla to acquire skills in these demanding areas to make themselves employable.Also,in France,I serve as the Media Secretary of National Union of Ghanaians Students France Chapter.
 
-
-**Volunteering:** I took part in a number of community give back iniatives during my time as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/). From teaching highschool students to blood donation campaigns. I cherish every opportunity I have to give back to my community and I am looking forward to doing more.
+**Tutoring:** I also spent sometime to tutor students in my community.  During my time as a teaching assitant at the Department of Computer Engineering, I lead tutorial lessons in Computer Vision,and Computer Graphics. In these sessions,I helped the students to have a better grasp of core course concepts that were taught by my proffessors.  
 
 
-**Hobbies:** I love to travel, meet like-minded youths and brainstorm on issues facing society. I also love learning about other people's cultures. I am an avid basketball player, you can hit me up for a pickup game but [please mind your ankles](https://youtu.be/OlUe4uzSQD4?t=85) :) . I led my high school team to win the regional basketball tournament  in Cameroon. 
+**Volunteering:** I took part in a number of community give back iniatives during my time as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/). From teaching highschool students to blood donation campaigns. I cherish every opportunity I have to give back to my community and I am looking forward to doing more. A
 
 
 Please feel free to reach out if you want to colloborate on something, I am always open to learning from other people's ideas.  
