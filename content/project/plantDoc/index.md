@@ -1,7 +1,7 @@
 ---
-title: PlantDoc
-summary: This project leverages on ResNet101 CNN feature extractor to build a robust plant leaf disease detection system 
-to help diagnose and characteristed plant leaf diseases. This is a work in progress,and I plan to include in this project
+title: PlantDoc,Plant Diseases Detection System
+summary:  This project leverages on ResNet101 CNN feature extractor to build a robust plant leaf disease detection system 
+to help diagnose and characteristed plant leaf diseases. This is a work in progress, and I plan to include in this project
 a recommendation system that would use the predictions of the ResNet101 as input and then would recommend treatment options
 for the identified disease. Also,I would build a mobile application to make this model easily accessible to farmers so that
 they can use this application on any smart phone. The model currently identify some diseases  in apples maize/corn,
