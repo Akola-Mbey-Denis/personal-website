@@ -4,8 +4,7 @@ summary: This project leverages on ResNet101 CNN feature extractor to build a ro
 to help diagnose and characteristed plant leaf diseases. This is a work in progress, and I plan to include in this project
 a recommendation system that would use the predictions of the ResNet101 as input and then would recommend treatment options
 for the identified disease. Also,I would build a Mobile application to make this model easily accessible to farmers so that
-they can use this application on any smart phone. The model currently identify some diseases  in apples maize/corn,blueberry
-,potatoe,tomato,and cherry.
+they can use this application on any smart phone. The model currently identify some diseases  in apples maize/corn,blueberry,potatoe,tomato,and cherry.
 
 date: "2022-03-27T00:00:00Z"
 
