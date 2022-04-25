@@ -1,10 +1,11 @@
 ---
 title: PlantDoc,plant leaf disease detection and treatment recommender.
-summary: This is a work in progress, and I plan to include in this project
-a recommendation system that would use the predictions of the ResNet101 as input and then would recommend treatment options
-for the identified disease. Also,I would build a mobile application to make this model easily accessible to farmers so that
-they can use this application on any smart phone. The model currently identify some diseases  in apples maize/corn,blueberry,
-potatoe,tomato,and cherry.
+summary: This is a work in progress, and I plan to include in this projecta recommendation system that
+would use the predictions of the ResNet101 as input and then would recommend treatment options for the
+identified disease. Also,I would build a mobile application to make this model easily accessible to 
+farmers so that they can use this application on any smart phone. The model currently identify some diseases
+in apples maize/corn,blueberry,potatoe,tomato,and cherry.
+
 date: "2020-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
