@@ -1,6 +1,6 @@
 ---
 title: Multiple Object Tracking
-summary: This project tackles multiple object tracking which is a challenging problem in computer vision.
+summary: This project tackles multiple object tracking which is a challenging problem in computer vision. This involves first detecting object of interest with classical object detection models like Faster RCNN, and Mask R-CNN. The object detection models provides as output; bounding boxes of objects detected and the objectness score of the predicted objects. The bounding boxes and objectness score for each detection box is a useful input for tracking. Tracking involves forming trajectories called tracks from the bounding boxes using various data association methods . Data association encompasses techniques employed to link tracks in frame sequence to form trajectories.
 
 date: "2020-06-27T00:00:00Z"
 

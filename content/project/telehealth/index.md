@@ -1,6 +1,6 @@
 ---
 title: HomDoc,a telehealth mobile application to bridge the health care gap in Africa.
-summary: Implemented a user-friendly frontend interface for the HomDoc patient mobile application. Incorporated into the app video, chat, and call functionalities that enable patients to communicate with medical doctors. Implemented a scheduling algorithm to assign patients to the earliest available doctors if they choose such a service. This product has helped to provide improved access to quality healthcare and allowing patients to have access to the services of doctors across the globe.
+summary: HomDoc is a telehealth application that enables people to have access to medical care outside of their physical geographical region. This application incorporates call,chat and video functionalities that allows patient to communicate with medical doctors over the internet. The application has helped to provide improved access to quality healthcare and allowing patients to have access to the services of doctors across the globe.
 
 date: "2020-06-27T00:00:00Z"
 
