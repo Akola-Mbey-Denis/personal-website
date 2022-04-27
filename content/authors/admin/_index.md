@@ -14,12 +14,13 @@ organizations:
   url: https://www.ip-paris.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision,robotics, software engineering and autonomous vehicles perception.
+bio: My research interests include computer vision,robotics,systems and control, software engineering and autonomous vehicles perception.
 
 # Interests to show in About widget
 interests:
-- Robotics
 - Computer Vision
+- Robotics
+- Systems and Control
 - Autonomous vehicles perception
 - Software engineering
 
@@ -64,11 +65,9 @@ email: "akoladenis97@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Denis Mbey Akola is currently a Msc Student in Computer Science at the Institut Polytechnique de Paris. His research interest is in computer vision,robotics,autonomous vehicles perception and software engineering.
-Currently,I am a research assistant at the UI2S research laboratory at ENSTA PARIS where I am carrying out interdisciplinary research in computer vision,and robotics.
-He also holds a bachelor of science degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology.
+I am a Master of Science Student in Computer Science at the Institut Polytechnique de Paris(IP Paris). My research interest is in computer vision,robotics,systems and controls,autonomous vehicles perception and software engineering. Currently,I am a research assistant at the U2IS research laboratory at ENSTA PARIS where I am carrying out interdisciplinary research in computer vision,and robotics.
 
-Prior to his enrollment at IP Paris,Denis was a Software Engineer at Bewsys and FillyCoder where he used his software development skills to build bespoke software systems to solve problems in various domains (education,agriculture,and health).
+Before joining the Masters program at IP Paris,I obtained my bachelor of science degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology (KNUST). I was among the top 2% in the Computer Engineering Class of 20220 at KNUST.
 
-He is currently working on a agritech start-up to leverage computer vision to timely diagnose plant leaf diseases.
-He is involved in a number of community engagement projects; notably the TechOne Foundation which he founded in 2017 in Zebilla to provide basic computer skills to students in his community.
+Moreover,I have experience working as a Software Engineer in two companies;Bewsys and FillyCoder. In these roles,I applied the knowledge I acquired as a Computer Engineer to build bespoke software systems which are solving various problems in health,education,and agriculture.
+I am  currently working on an agritech start-up which will leverage computer vision to timely diagnose and recommend treatment options for various plant leaf diseases. I am change-maker and I have being involved in a number of community engagement projects; notably the TechOne Foundation which I founded in 2017 in Zebilla to provide basic computer skills to students in his community.
