@@ -1,6 +1,6 @@
 ---
-title: H-index Prediction
-summary: This project objective was to find the best NLP model, based on the MSE (Mean Squared Error), to predict the h-index of the authors in the computer science domain. This was a class based kaggle challenge with over 120 groups in the Machine and Deep Learning Course at Ecole Polytechnique. My group's submission was ranked 11th. 
+title: H-index Prediction Kaggle Challenge
+summary: This project objective was to find the best NLP model, based on the MSE (Mean Squared Error), to predict the h-index of scientific authors in the domain of computer science. This was a class based kaggle challenge with over 120 groups in the Machine and Deep Learning Course at Ecole Polytechnique. My group's submission was ranked 11th. 
 
 
 date: "2022-03-27T00:00:00Z"
