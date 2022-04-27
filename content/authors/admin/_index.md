@@ -70,4 +70,7 @@ I am a Master of Science Student in Computer Science at the Institut Polytechniq
 Before joining the Masters program at IP Paris,I obtained my bachelor of science degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology (KNUST). I was among the top 2% in the Computer Engineering Class of 20220 at KNUST.
 
 Moreover,I have experience working as a Software Engineer in two companies;Bewsys and FillyCoder. In these roles,I applied the knowledge I acquired as a Computer Engineer to build bespoke software systems which are solving various problems in health,education,and agriculture.
-I am  currently working on an agritech start-up which will leverage computer vision to timely diagnose and recommend treatment options for various plant leaf diseases. I am change-maker and I have being involved in a number of community engagement projects; notably the TechOne Foundation which I founded in 2017 in Zebilla to provide basic computer skills to students in his community.
+
+I am  currently working on an agritech start-up which will leverage computer vision to timely diagnose and recommend treatment options for various plant leaf diseases.
+
+I am change-maker and I have being involved in a number of community engagement projects; notably the TechOne Foundation which I founded in 2017 in Zebilla to provide basic computer skills to students in his community.
