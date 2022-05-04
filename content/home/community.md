@@ -43,6 +43,6 @@ design:
 
 
 **Volunteering:** I took part in a number of community give-back initiative during my time as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/). From teaching high school students to blood donation campaigns. I cherish every opportunity I have to give back to my community and I am looking forward to doing more. 
-In 2018,I spent two (2) months as a volunteer at [Turing Trust Foundation](https://turingtrust.co.uk/ghana/) in Kumasi,Ghana. As a technical assistant,I installed useful softwares and fix glitches on recycled computers that were distributed to various schools across the country to aid in the teaching and learning  of ICT in basic and Junior High Schools in Ghana
+In 2018,I spent two (2) months as a volunteer at [Turing Trust Foundation](https://turingtrust.co.uk/ghana/) in Kumasi,Ghana. As a technical assistant,I installed useful educational softwares and fixed glitches on recycled computers that were distributed to various schools across the country to aid in the teaching and learning  of ICT in basic and Junior High Schools in Ghana
 
 Please feel free to reach out if you want to colloborate on something, I am always open to learning from other people's ideas. Together we can make the world better and put smiles on the faces of people who need such.
