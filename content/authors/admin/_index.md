@@ -73,4 +73,4 @@ Moreover,I have experience working as a Software Engineer in two companies;Bewsy
 
 I am  currently working on an agritech start-up which will leverage computer vision to timely diagnose and recommend treatment options for various plant leaf diseases.
 
-I am change-maker and I have being involved in a number of community engagement projects; notably the TechOne Foundation which I founded in 2017 in Zebilla to provide basic computer skills to students in his community.
+I am change-maker and I have being involved in a number of community engagement projects; notably the TechOne Foundation which I founded in 2017 in Zebilla to provide basic computer skills to students.

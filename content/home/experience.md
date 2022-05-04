@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+ - title: Computer Vision Intern
+    company: Tribun Health
+    company_url: 'https://www.tribun.health/'
+    company_logo: TribunHealth
+    location: Paris,France
+    date_start: '2022-05-01'
+    date_end: ''
+    
   - title: Research Assistant
     company: ENSTA PARIS,UI2S Research Laboratory
     company_url: 'http://u2is.ensta-paris.fr/'
