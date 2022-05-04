@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Computer Vision Intern
-   company: Tribun Health
-   company_url: 'https://www.tribun.health/'
-   company_logo: TribunHealth
-   location: Paris,France
-   date_start: '2022-05-01'
-   date_end: ''
+    company: Tribun Health
+    company_url: 'https://www.tribun.health/'
+    company_logo: TribunHealth
+    location: Paris,France
+    date_start: '2022-05-01'
+    date_end: ''
 
   - title: Research Assistant
     company: ENSTA PARIS,UI2S Research Laboratory
