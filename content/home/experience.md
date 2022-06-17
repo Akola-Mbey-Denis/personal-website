@@ -47,7 +47,7 @@ experience:
     date_end: '2022-04-29'
         
   - title: Research and Teaching Assistant
-    company: Department of Computer Engineering,Kwame Nkrumah University of Science and Technology
+    company: Department of Computer Engineering, Kwame Nkrumah University of Science and Technology
     company_url: 'https://compeng.knust.edu.gh/'
     company_logo: knust
     location: Kumasi,Ghana
