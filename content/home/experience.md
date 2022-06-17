@@ -31,7 +31,7 @@ experience:
     date_end: ''
 
   - title: Research Assistant
-    company: ENSTA PARIS,UI2S Research Laboratory
+    company: ENSTA PARIS, UI2S Research Laboratory
     company_url: 'http://u2is.ensta-paris.fr/'
     company_logo: ENSTA
     location: Palaiseau,France

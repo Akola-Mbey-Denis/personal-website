@@ -1,6 +1,6 @@
 ---
 title: UAV path-planning and communication joint optimization
-summary: This project tries to solve the non-convex optimisation problem of finding an optimal path for a UAV to move from a base station to a target/inspection point while respecting the strict constraints of power,and data transmission rate. The problem is first transformed into a convex optimisation problem and solved using classical optimisation algorithms in CVXPY.
+summary: This project tries to solve the non-convex optimisation problem of finding an optimal path for a UAV to move from a base station to a target/inspection point while respecting the strict constraints of power, and data transmission rate. The problem is first transformed into a convex optimisation problem and solved using classical optimisation algorithms in CVXPY.
 
 date: "2022-03-27T00:00:00Z"
 

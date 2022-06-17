@@ -14,7 +14,7 @@ organizations:
   url: https://www.ip-paris.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision,robotics,systems and control, software engineering and autonomous vehicles perception.
+bio: My research interests include computer vision, robotics, systems and control, software engineering, and autonomous vehicles perception.
 
 # Interests to show in About widget
 interests:
@@ -65,11 +65,11 @@ email: "akoladenis97@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Master of Science Student in Computer Science at the Institut Polytechnique de Paris(IP Paris). My research interest is in computer vision, robotics, systems and controls, autonomous vehicles perception, and software engineering. Currently,I am a research assistant at the U2IS research laboratory at ENSTA PARIS where I am carrying out interdisciplinary research in computer vision,and robotics.
+I am a Master of Science Student in Computer Science at the Institut Polytechnique de Paris(IP Paris). My research interest is in computer vision, robotics, systems and controls, autonomous vehicles perception, and software engineering. Currently, I am a research assistant at the U2IS research laboratory at ENSTA PARIS where I am carrying out interdisciplinary research in computer vision, and robotics.
 
-Before joining the Masters program at IP Paris,I obtained my bachelor of science degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology (KNUST). I was among the top 2% in the Computer Engineering Class of 2020 at KNUST.
+Before joining the Masters program at IP Paris, I obtained my bachelor of science degree in Computer Engineering from the Kwame Nkrumah University of Science and Technology (KNUST). I was among the top 2% in the Computer Engineering Class of 2020 at KNUST.
 
-Moreover,I have experience working as a Software Engineer in two companies;Bewsys and FillyCoder. In these roles, I applied the knowledge I acquired as a Computer Engineer to build bespoke software systems which are solving various problems in health,education,and agriculture.
+Moreover, I have experience working as a Software Engineer in two companies; Bewsys and FillyCoder. In these roles, I applied the knowledge I acquired as a Computer Engineer to build bespoke software systems which are solving various problems in health, education, and agriculture.
 
 I am  currently working on an agritech start-up which will leverage computer vision to timely diagnose and recommend treatment options for various plant leaf diseases.
 
